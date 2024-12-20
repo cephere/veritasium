@@ -1,0 +1,29 @@
+.padding{
+    display: flex;
+    flex-direction: column;
+    background-color: #E8F1F2;
+    height:600px;
+    width: 500px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    width: 250px;
+    height: 35px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.login-text{
+    font-size: 30px;
+}
